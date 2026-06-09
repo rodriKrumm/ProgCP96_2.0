@@ -1,0 +1,1243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C005C459-5404-46FC-977B-340C4FF5EABE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PROGCP96_V1._1_</RootNamespace>
+    <AssemblyName>CLP96_SW</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Management.Instrumentation" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ajuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ajuda.Designer.cs">
+      <DependentUpon>Ajuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AUXILIAR_ANALOGICA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AUXILIAR_ANALOGICA.Designer.cs">
+      <DependentUpon>AUXILIAR_ANALOGICA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bimanual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bimanual.Designer.cs">
+      <DependentUpon>Bimanual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BORDA_DESCIDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BORDA_DESCIDA.Designer.cs">
+      <DependentUpon>BORDA_DESCIDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BORDA_SUBIDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BORDA_SUBIDA.Designer.cs">
+      <DependentUpon>BORDA_SUBIDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONTADOR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONTADOR.Designer.cs">
+      <DependentUpon>CONTADOR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONTATO_AUXILIAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONTATO_AUXILIAR.Designer.cs">
+      <DependentUpon>CONTATO_AUXILIAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DISPLAY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DISPLAY.Designer.cs">
+      <DependentUpon>DISPLAY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dispositivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dispositivos.Designer.cs">
+      <DependentUpon>Dispositivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ENTRADA_NA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ENTRADA_NA.Designer.cs">
+      <DependentUpon>ENTRADA_NA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ENTRADA_NF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ENTRADA_NF.Designer.cs">
+      <DependentUpon>ENTRADA_NF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ESPERA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ESPERA.Designer.cs">
+      <DependentUpon>ESPERA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Habilitar_Funcoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Habilitar_Funcoes.Designer.cs">
+      <DependentUpon>Habilitar_Funcoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENSAGEM_DISPLAY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENSAGEM_DISPLAY.Designer.cs">
+      <DependentUpon>MENSAGEM_DISPLAY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENSAGEM_DISPLAY2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENSAGEM_DISPLAY2.Designer.cs">
+      <DependentUpon>MENSAGEM_DISPLAY2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SAIDA_NA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SAIDA_NA.Designer.cs">
+      <DependentUpon>SAIDA_NA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SAIDA_NF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SAIDA_NF.Designer.cs">
+      <DependentUpon>SAIDA_NF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SAIDA_RESET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SAIDA_RESET.Designer.cs">
+      <DependentUpon>SAIDA_RESET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SAIDA_SET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SAIDA_SET.Designer.cs">
+      <DependentUpon>SAIDA_SET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SIMULACAO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIMULACAO.Designer.cs">
+      <DependentUpon>SIMULACAO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sobre_PROGCP96.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sobre_PROGCP96.Designer.cs">
+      <DependentUpon>Sobre_PROGCP96.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Temporizador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temporizador.Designer.cs">
+      <DependentUpon>Temporizador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USBDeviceInfo.cs" />
+    <Compile Include="VisorCLP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisorCLP.Designer.cs">
+      <DependentUpon>VisorCLP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisorCLP_CONTADOR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisorCLP_CONTADOR.Designer.cs">
+      <DependentUpon>VisorCLP_CONTADOR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="visorCLP_ESPERA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="visorCLP_ESPERA.Designer.cs">
+      <DependentUpon>visorCLP_ESPERA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visor_Bimanual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visor_Bimanual.Designer.cs">
+      <DependentUpon>Visor_Bimanual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visor_HabilitarFuncao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visor_HabilitarFuncao.Designer.cs">
+      <DependentUpon>Visor_HabilitarFuncao.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ajuda.resx">
+      <DependentUpon>Ajuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AUXILIAR_ANALOGICA.resx">
+      <DependentUpon>AUXILIAR_ANALOGICA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bimanual.resx">
+      <DependentUpon>Bimanual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BORDA_DESCIDA.resx">
+      <DependentUpon>BORDA_DESCIDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BORDA_SUBIDA.resx">
+      <DependentUpon>BORDA_SUBIDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONTADOR.resx">
+      <DependentUpon>CONTADOR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONTATO_AUXILIAR.resx">
+      <DependentUpon>CONTATO_AUXILIAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DISPLAY.resx">
+      <DependentUpon>DISPLAY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dispositivos.resx">
+      <DependentUpon>Dispositivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ENTRADA_NA.resx">
+      <DependentUpon>ENTRADA_NA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ENTRADA_NF.resx">
+      <DependentUpon>ENTRADA_NF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ESPERA.resx">
+      <DependentUpon>ESPERA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Habilitar_Funcoes.resx">
+      <DependentUpon>Habilitar_Funcoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENSAGEM_DISPLAY.resx">
+      <DependentUpon>MENSAGEM_DISPLAY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENSAGEM_DISPLAY2.resx">
+      <DependentUpon>MENSAGEM_DISPLAY2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SAIDA_NA.resx">
+      <DependentUpon>SAIDA_NA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SAIDA_NF.resx">
+      <DependentUpon>SAIDA_NF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SAIDA_RESET.resx">
+      <DependentUpon>SAIDA_RESET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SAIDA_SET.resx">
+      <DependentUpon>SAIDA_SET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIMULACAO.resx">
+      <DependentUpon>SIMULACAO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sobre_PROGCP96.resx">
+      <DependentUpon>Sobre_PROGCP96.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temporizador.resx">
+      <DependentUpon>Temporizador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisorCLP.resx">
+      <DependentUpon>VisorCLP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisorCLP_CONTADOR.resx">
+      <DependentUpon>VisorCLP_CONTADOR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="visorCLP_ESPERA.resx">
+      <DependentUpon>visorCLP_ESPERA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visor_Bimanual.resx">
+      <DependentUpon>Visor_Bimanual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visor_HabilitarFuncao.resx">
+      <DependentUpon>Visor_HabilitarFuncao.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NA_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NA_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NA_3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NA_4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NA_5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NA_6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NA_7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NA_8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NF_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NF_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NF_3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NF_4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NF_5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NF_6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NF_7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NF_8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R05.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R06.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R07.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R08.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AND.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orConnect.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orLeftDown.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orLeftRightDown.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orLeftRightUp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orLeftUp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orLeftUpDown.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orRightDown.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orRightUp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orRightUpDown.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orUpDown.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P05.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P06.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P07.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P08.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aux01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aux02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aux03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aux04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I05.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I06.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I07.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I08.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Q01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Q02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Q03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Q04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Q05.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Q06.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Q07.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Q08.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NA_01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BN_E01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BN_E02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BN_E03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BN_E04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BN_E05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BN_E06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BN_E07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BN_E08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BP_E01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BP_E02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BP_E03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BP_E04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BP_E05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BP_E06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BP_E07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BP_E08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENA_E01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENA_E02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENA_E03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENA_E04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENA_E05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENA_E06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENA_E07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENA_E08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RES_E01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RES_E02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RES_E03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RES_E04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RES_E05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RES_E07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RES-E06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RES-E08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SET_E01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SET_E02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SET_E03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SET_E04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SET_E05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SET_E06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SET_E07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SET_E08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNA_E01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNA_E02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNA_E03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNA_E04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNA_E05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNA_E06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNA_E07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNA_E08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNF_E01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNF_E02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNF_E03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNF_E04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNF_E05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNF_E06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNF_E07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNF_E08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OR_L.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OR_T.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linha pequena.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CONTINUO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconeentrada.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursorna.cur" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENA_ICONE.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENF_ICONE.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RES_ICONE.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SET_ICONE.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNA_ICONE.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNF_ICONE.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CONTINUO.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OR_ICONE.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_BN.cur" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconeBN.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_res2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_bordaN.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_bordaP.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_ena.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_enf.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_res.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_set.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_sna.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_snf.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_ang.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_xor.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linha grande.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_del.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENF_E01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENF_E02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENF_E03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENF_E04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENF_E05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENF_E06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENF_E07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENF_E08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_continuo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espera01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espera02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espera03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espera04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espera05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espera06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espera07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espera08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contador01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contador02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temporizador_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ANG_E01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ANG_E02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ANG_E03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ANG_E04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_or2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_or.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cont_aux01.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HAB_F1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HAB_F2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bimanual_E7_E8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_contador.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_contador.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_contador.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_espera.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_tempo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_display.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_contAux.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_bimanual.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_bit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BIT_E2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BIT_E1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\project.WMV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Novo projeto.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_NF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_RES.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_NF_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_SET_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_RES_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_NF_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_SET_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_RES_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_NF_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_SET_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_RES_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_NF_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_SET_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_RES_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_NF_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_SET_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_RES_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_NF_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_SET.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_RES_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_NF_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_SET_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_RES_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_NF_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPECIAL_SET_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisivel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teste_OR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_OR_L.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_OR_H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_OR_T.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linhas_gridview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botao_invisivel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo %281%29.ico" />
+    <None Include="Resources\contador01z.png" />
+    <None Include="Resources\contador02z.png" />
+    <Content Include="Resources\delete.png" />
+    <None Include="Resources\CONTATO_14_SET.png" />
+    <None Include="Resources\CONTATO_14_RESET.png" />
+    <None Include="Resources\CONTATO_13_SET.png" />
+    <None Include="Resources\CONTATO_13_RESET.png" />
+    <None Include="Resources\CONTATO_12_SET.png" />
+    <None Include="Resources\CONTATO_12_RESET.png" />
+    <None Include="Resources\CONTATO_11_SET.png" />
+    <None Include="Resources\CONTATO_11_RESET.png" />
+    <None Include="Resources\CONTATO_10_SET.png" />
+    <None Include="Resources\CONTATO_10_RESET.png" />
+    <None Include="Resources\CONTATO_09_SET.png" />
+    <None Include="Resources\CONTATO_09_RES.png" />
+    <None Include="Resources\CONTATO_08_NA.png" />
+    <None Include="Resources\CONTATO_07_NA.png" />
+    <None Include="Resources\CONTATO_06_NA.png" />
+    <None Include="Resources\CONTATO_05_NA.png" />
+    <None Include="Resources\CONTATO_04_NF.png" />
+    <None Include="Resources\CONTATO_04_NA.png" />
+    <None Include="Resources\CONTATO_03_NF.png" />
+    <None Include="Resources\CONTATO_03_NA.png" />
+    <None Include="Resources\CONTATO_02_NF.png" />
+    <None Include="Resources\CONTATO_02_NA.png" />
+    <None Include="Resources\CONTATO_01_NF.png" />
+    <None Include="Resources\CONTATO_01_NA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

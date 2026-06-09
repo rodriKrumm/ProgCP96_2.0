@@ -1,0 +1,391 @@
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1.1_.csprojAssemblyReference.cache
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.ENTRADA_NA.resources
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.Form1.resources
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.Properties.Resources.resources
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1.1_.csproj.GenerateResource.cache
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1.1_.csproj.CoreCompileInputs.cache
+D:\Projetos_RK\PROGCP96_V1.1_\bin\Debug\PROGCP96_V1.1_.exe.config
+D:\Projetos_RK\PROGCP96_V1.1_\bin\Debug\PROGCP96_V1.1_.exe
+D:\Projetos_RK\PROGCP96_V1.1_\bin\Debug\PROGCP96_V1.1_.pdb
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1.1_.exe
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1.1_.pdb
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.ENTRADA_NF.resources
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.BORDA_DESCIDA.resources
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.BORDA_SUBIDA.resources
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.SAIDA_NA.resources
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.SAIDA_NF.resources
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.SAIDA_SET.resources
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.SAIDA_RESET.resources
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.AUXILIAR_ANALOGICA.resources
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.OR.resources
+D:\Projetos_RK\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.DEL.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\bin\Debug\PROGCP96_V1.1_.exe.config
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\bin\Debug\PROGCP96_V1.1_.exe
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\bin\Debug\PROGCP96_V1.1_.pdb
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1.1_.csprojAssemblyReference.cache
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.AUXILIAR_ANALOGICA.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.BORDA_DESCIDA.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.BORDA_SUBIDA.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.DEL.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.ENTRADA_NA.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.ENTRADA_NF.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.Form1.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.OR.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.Properties.Resources.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.SAIDA_NA.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.SAIDA_NF.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.SAIDA_RESET.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.SAIDA_SET.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1.1_.csproj.GenerateResource.cache
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1.1_.csproj.CoreCompileInputs.cache
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1.1_.exe
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1.1_.pdb
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.Continuo.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.And.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.Temporizador.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.OPCOES.resources
+C:\Users\proje\Google Drive\PROGCP96_V1.1_\obj\Debug\PROGCP96_V1._1_.VisorCLP.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csprojAssemblyReference.cache
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.AUXILIAR_ANALOGICA.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_DESCIDA.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_SUBIDA.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.And.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Continuo.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.DEL.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NA.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NF.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Form1.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.OPCOES.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.OR.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Properties.Resources.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NA.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NF.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_RESET.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_SET.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Temporizador.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.GenerateResource.cache
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.CoreCompileInputs.cache
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.DISPLAY.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTADOR.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ESPERA.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP_CONTADOR.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.visorCLP_ESPERA.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTATO_AUXILIAR.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY2.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Variaveis_inseridas.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Habilitar_Funcoes.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_HabilitarFuncao.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Bimanual.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_Bimanual.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Sobre_PROGCP96.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Ajuda.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\bin\Debug\Interop.WMPLib.dll
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\Interop.WMPLib.dll
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.ResolveComReference.cache
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Dispositivos.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SIMULACAO.resources
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\bin\Debug\PROGCLP96_V1.1.exe.config
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\bin\Debug\PROGCLP96_V1.1.exe
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\bin\Debug\PROGCLP96_V1.1.pdb
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCLP96_V1.1.exe
+C:\Users\proje\Google Drive\CLP96\PROGCP96_V1.10\obj\Debug\PROGCLP96_V1.1.pdb
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\bin\Debug\Interop.WMPLib.dll
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.AssemblyReference.cache
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\Interop.WMPLib.dll
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.ResolveComReference.cache
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Ajuda.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.AUXILIAR_ANALOGICA.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Bimanual.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_DESCIDA.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_SUBIDA.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTADOR.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTATO_AUXILIAR.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.DISPLAY.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Dispositivos.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NA.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NF.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ESPERA.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Form1.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Habilitar_Funcoes.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY2.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Properties.Resources.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NA.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NF.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_RESET.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_SET.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SIMULACAO.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Sobre_PROGCP96.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Temporizador.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP_CONTADOR.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.visorCLP_ESPERA.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_Bimanual.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_HabilitarFuncao.resources
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.GenerateResource.cache
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.CoreCompileInputs.cache
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\bin\Debug\Interop.WMPLib.dll
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csprojAssemblyReference.cache
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\Interop.WMPLib.dll
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.ResolveComReference.cache
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Ajuda.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.AUXILIAR_ANALOGICA.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Bimanual.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_DESCIDA.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_SUBIDA.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTADOR.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTATO_AUXILIAR.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Continuo.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.DEL.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.DISPLAY.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Dispositivos.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NA.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NF.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ESPERA.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Form1.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Habilitar_Funcoes.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY2.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Properties.Resources.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NA.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NF.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_RESET.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_SET.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SIMULACAO.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Sobre_PROGCP96.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Temporizador.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP_CONTADOR.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.visorCLP_ESPERA.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_Bimanual.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_HabilitarFuncao.resources
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.GenerateResource.cache
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.CoreCompileInputs.cache
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\bin\Debug\CLP96_SW.exe.config
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\bin\Debug\CLP96_SW.exe
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\bin\Debug\CLP96_SW.pdb
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\CLP96_SW.exe
+C:\Users\proje\Dropbox\VISUS_ALLIN\PROGCP96_V1.10\obj\Debug\CLP96_SW.pdb
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\CLP96_SW.exe
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\obj\Debug\CLP96_SW.pdb
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\bin\Debug\CLP96_SW.exe.config
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\bin\Debug\CLP96_SW.exe
+C:\Users\proje\Dropbox\VISUS_CLP96PROG\PROGCP96_V1.10\bin\Debug\CLP96_SW.pdb
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\bin\Debug\CLP96_SW.exe.config
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\bin\Debug\CLP96_SW.exe
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\bin\Debug\CLP96_SW.pdb
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\bin\Debug\Interop.WMPLib.dll
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\bin\Debug\AxInterop.WMPLib.dll
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.AssemblyReference.cache
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\Interop.WMPLib.dll
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\AxInterop.WMPLib.dll
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.ResolveComReference.cache
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Ajuda.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.AUXILIAR_ANALOGICA.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Bimanual.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_DESCIDA.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_SUBIDA.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTADOR.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTATO_AUXILIAR.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.DISPLAY.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Dispositivos.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NA.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NF.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ESPERA.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Form1.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Habilitar_Funcoes.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY2.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Properties.Resources.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NA.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NF.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_RESET.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_SET.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SIMULACAO.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Sobre_PROGCP96.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Temporizador.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP_CONTADOR.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.visorCLP_ESPERA.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_Bimanual.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_HabilitarFuncao.resources
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.GenerateResource.cache
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.CoreCompileInputs.cache
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\CLP96_SW.exe
+D:\PRODUCAO\LINHA CP\CLP96 REV.A\PRODUTO\CLP96-001-RJ-24VCC (VISUS GENERICO)\!SOFTWARE\PROGCP96_V1.10\obj\Debug\CLP96_SW.pdb
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\CLP96_SW.exe.config
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\CLP96_SW.exe
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\CLP96_SW.pdb
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.ResolveComReference.cache
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Ajuda.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.AUXILIAR_ANALOGICA.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Bimanual.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_DESCIDA.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_SUBIDA.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTADOR.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTATO_AUXILIAR.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.DISPLAY.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Dispositivos.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NA.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NF.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ESPERA.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Form1.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Habilitar_Funcoes.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY2.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NA.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NF.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_RESET.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_SET.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SIMULACAO.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Sobre_PROGCP96.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Temporizador.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP_CONTADOR.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.visorCLP_ESPERA.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_Bimanual.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_HabilitarFuncao.resources
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.GenerateResource.cache
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\CLP96_SW.exe
+C:\Users\Rodrigo\Desktop\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\CLP96_SW.pdb
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\CLP96_SW.exe.config
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\CLP96_SW.exe
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\CLP96_SW.pdb
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\Interop.WMPLib.dll
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\AxInterop.WMPLib.dll
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.AssemblyReference.cache
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\Interop.WMPLib.dll
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\AxInterop.WMPLib.dll
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.ResolveComReference.cache
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Ajuda.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.AUXILIAR_ANALOGICA.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Bimanual.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_DESCIDA.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_SUBIDA.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTADOR.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTATO_AUXILIAR.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.DISPLAY.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Dispositivos.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NA.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NF.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ESPERA.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Form1.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Habilitar_Funcoes.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY2.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Properties.Resources.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NA.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NF.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_RESET.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_SET.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SIMULACAO.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Sobre_PROGCP96.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Temporizador.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP_CONTADOR.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.visorCLP_ESPERA.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_Bimanual.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_HabilitarFuncao.resources
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.GenerateResource.cache
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.CoreCompileInputs.cache
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\CLP96_SW.exe
+D:\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\CLP96_SW.pdb
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\CLP96_SW.exe.config
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\CLP96_SW.exe
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\CLP96_SW.pdb
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.ResolveComReference.cache
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Ajuda.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.AUXILIAR_ANALOGICA.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Bimanual.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_DESCIDA.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_SUBIDA.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTADOR.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTATO_AUXILIAR.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.DISPLAY.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Dispositivos.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NA.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NF.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ESPERA.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Form1.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Habilitar_Funcoes.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY2.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NA.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NF.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_RESET.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_SET.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SIMULACAO.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Sobre_PROGCP96.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Temporizador.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP_CONTADOR.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.visorCLP_ESPERA.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_Bimanual.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_HabilitarFuncao.resources
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.GenerateResource.cache
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\CLP96_SW.exe
+C:\Users\Rodrigo\Desktop\Pendrive\Projetos\Prog_CP96\PROGCP96_V1.10\obj\Debug\CLP96_SW.pdb
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\bin\Debug\CLP96_SW.exe.config
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\bin\Debug\CLP96_SW.exe
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\bin\Debug\CLP96_SW.pdb
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\bin\Debug\Interop.WMPLib.dll
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\Interop.WMPLib.dll
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.ResolveComReference.cache
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Ajuda.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.AUXILIAR_ANALOGICA.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Bimanual.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_DESCIDA.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.BORDA_SUBIDA.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTADOR.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.CONTATO_AUXILIAR.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.DISPLAY.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Dispositivos.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NA.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ENTRADA_NF.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.ESPERA.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Form1.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Habilitar_Funcoes.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY2.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Properties.Resources.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NA.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_NF.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_RESET.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SAIDA_SET.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.SIMULACAO.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Sobre_PROGCP96.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Temporizador.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.VisorCLP_CONTADOR.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.visorCLP_ESPERA.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_Bimanual.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1._1_.Visor_HabilitarFuncao.resources
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\CLP96_SW.exe
+C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\CLP96_SW.pdb
