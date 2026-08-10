@@ -389,3 +389,47 @@ C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V
 C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\PROGCP96_V1.1_.csproj.CoreCompileInputs.cache
 C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\CLP96_SW.exe
 C:\Users\rodri\Desktop\Rodrigo (2)\Prog_CP96\PROGCP96_V1.10\obj\Debug\CLP96_SW.pdb
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\bin\Debug\CLP96_SW.exe.config
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\bin\Debug\CLP96_SW.exe
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\bin\Debug\CLP96_SW.pdb
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1.1_.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1.1_.csproj.ResolveComReference.cache
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.Ajuda.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.AUXILIAR_ANALOGICA.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.Bimanual.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.BORDA_DESCIDA.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.BORDA_SUBIDA.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.CONTADOR.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.CONTATO_AUXILIAR.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.DISPLAY.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.Dispositivos.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.ENTRADA_NA.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.ENTRADA_NF.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.ESPERA.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.Form1.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.Habilitar_Funcoes.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.MENSAGEM_DISPLAY2.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.Properties.Resources.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.SAIDA_NA.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.SAIDA_NF.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.SAIDA_RESET.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.SAIDA_SET.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.SIMULACAO.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.Sobre_PROGCP96.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.Temporizador.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.VisorCLP.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.VisorCLP_CONTADOR.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.visorCLP_ESPERA.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.Visor_Bimanual.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.Visor_HabilitarFuncao.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1.1_.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1.1_.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\CLP96_SW.exe
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\CLP96_SW.pdb
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.And.resources
+C:\Users\rodri\Desktop\Projetos\Prog_CP96 - REFATORACAO\PROGCP96_V2.0\obj\Debug\PROGCP96_V1._1_.DELETE.resources

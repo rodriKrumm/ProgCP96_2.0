@@ -66,76 +66,88 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ajuda.cs">
+    <Compile Include="Telas\Logicas\And.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Ajuda.Designer.cs">
+    <Compile Include="Telas\Logicas\And.Designer.cs">
+      <DependentUpon>And.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Logicas\DELETE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Logicas\DELETE.Designer.cs">
+      <DependentUpon>DELETE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Especiais\Ajuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Especiais\Ajuda.Designer.cs">
       <DependentUpon>Ajuda.cs</DependentUpon>
     </Compile>
-    <Compile Include="AUXILIAR_ANALOGICA.cs">
+    <Compile Include="Telas\Especiais\AUXILIAR_ANALOGICA.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AUXILIAR_ANALOGICA.Designer.cs">
+    <Compile Include="Telas\Especiais\AUXILIAR_ANALOGICA.Designer.cs">
       <DependentUpon>AUXILIAR_ANALOGICA.cs</DependentUpon>
     </Compile>
-    <Compile Include="Bimanual.cs">
+    <Compile Include="Telas\Especiais\Bimanual.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Bimanual.Designer.cs">
+    <Compile Include="Telas\Especiais\Bimanual.Designer.cs">
       <DependentUpon>Bimanual.cs</DependentUpon>
     </Compile>
-    <Compile Include="BORDA_DESCIDA.cs">
+    <Compile Include="Telas\Entradas\BORDA_DESCIDA.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="BORDA_DESCIDA.Designer.cs">
+    <Compile Include="Telas\Entradas\BORDA_DESCIDA.Designer.cs">
       <DependentUpon>BORDA_DESCIDA.cs</DependentUpon>
     </Compile>
-    <Compile Include="BORDA_SUBIDA.cs">
+    <Compile Include="Telas\Entradas\BORDA_SUBIDA.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="BORDA_SUBIDA.Designer.cs">
+    <Compile Include="Telas\Entradas\BORDA_SUBIDA.Designer.cs">
       <DependentUpon>BORDA_SUBIDA.cs</DependentUpon>
     </Compile>
-    <Compile Include="CONTADOR.cs">
+    <Compile Include="Telas\Especiais\CONTADOR.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="CONTADOR.Designer.cs">
+    <Compile Include="Telas\Especiais\CONTADOR.Designer.cs">
       <DependentUpon>CONTADOR.cs</DependentUpon>
     </Compile>
-    <Compile Include="CONTATO_AUXILIAR.cs">
+    <Compile Include="Telas\Especiais\CONTATO_AUXILIAR.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="CONTATO_AUXILIAR.Designer.cs">
+    <Compile Include="Telas\Especiais\CONTATO_AUXILIAR.Designer.cs">
       <DependentUpon>CONTATO_AUXILIAR.cs</DependentUpon>
     </Compile>
-    <Compile Include="DISPLAY.cs">
+    <Compile Include="Telas\Especiais\DISPLAY.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DISPLAY.Designer.cs">
+    <Compile Include="Telas\Especiais\DISPLAY.Designer.cs">
       <DependentUpon>DISPLAY.cs</DependentUpon>
     </Compile>
-    <Compile Include="Dispositivos.cs">
+    <Compile Include="Telas\Especiais\Dispositivos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Dispositivos.Designer.cs">
+    <Compile Include="Telas\Especiais\Dispositivos.Designer.cs">
       <DependentUpon>Dispositivos.cs</DependentUpon>
     </Compile>
-    <Compile Include="ENTRADA_NA.cs">
+    <Compile Include="Telas\Entradas\ENTRADA_NA.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ENTRADA_NA.Designer.cs">
+    <Compile Include="Telas\Entradas\ENTRADA_NA.Designer.cs">
       <DependentUpon>ENTRADA_NA.cs</DependentUpon>
     </Compile>
-    <Compile Include="ENTRADA_NF.cs">
+    <Compile Include="Telas\Entradas\ENTRADA_NF.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ENTRADA_NF.Designer.cs">
+    <Compile Include="Telas\Entradas\ENTRADA_NF.Designer.cs">
       <DependentUpon>ENTRADA_NF.cs</DependentUpon>
     </Compile>
-    <Compile Include="ESPERA.cs">
+    <Compile Include="Telas\Especiais\ESPERA.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ESPERA.Designer.cs">
+    <Compile Include="Telas\Especiais\ESPERA.Designer.cs">
       <DependentUpon>ESPERA.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
@@ -144,22 +156,22 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Habilitar_Funcoes.cs">
+    <Compile Include="Telas\Especiais\Habilitar_Funcoes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Habilitar_Funcoes.Designer.cs">
+    <Compile Include="Telas\Especiais\Habilitar_Funcoes.Designer.cs">
       <DependentUpon>Habilitar_Funcoes.cs</DependentUpon>
     </Compile>
-    <Compile Include="MENSAGEM_DISPLAY.cs">
+    <Compile Include="Telas\Especiais\MENSAGEM_DISPLAY.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MENSAGEM_DISPLAY.Designer.cs">
+    <Compile Include="Telas\Especiais\MENSAGEM_DISPLAY.Designer.cs">
       <DependentUpon>MENSAGEM_DISPLAY.cs</DependentUpon>
     </Compile>
-    <Compile Include="MENSAGEM_DISPLAY2.cs">
+    <Compile Include="Telas\Especiais\MENSAGEM_DISPLAY2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MENSAGEM_DISPLAY2.Designer.cs">
+    <Compile Include="Telas\Especiais\MENSAGEM_DISPLAY2.Designer.cs">
       <DependentUpon>MENSAGEM_DISPLAY2.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
@@ -169,125 +181,131 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="SAIDA_NA.cs">
+    <Compile Include="Telas\Saidas\SAIDA_NA.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SAIDA_NA.Designer.cs">
+    <Compile Include="Telas\Saidas\SAIDA_NA.Designer.cs">
       <DependentUpon>SAIDA_NA.cs</DependentUpon>
     </Compile>
-    <Compile Include="SAIDA_NF.cs">
+    <Compile Include="Telas\Saidas\SAIDA_NF.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SAIDA_NF.Designer.cs">
+    <Compile Include="Telas\Saidas\SAIDA_NF.Designer.cs">
       <DependentUpon>SAIDA_NF.cs</DependentUpon>
     </Compile>
-    <Compile Include="SAIDA_RESET.cs">
+    <Compile Include="Telas\Saidas\SAIDA_RESET.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SAIDA_RESET.Designer.cs">
+    <Compile Include="Telas\Saidas\SAIDA_RESET.Designer.cs">
       <DependentUpon>SAIDA_RESET.cs</DependentUpon>
     </Compile>
-    <Compile Include="SAIDA_SET.cs">
+    <Compile Include="Telas\Saidas\SAIDA_SET.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SAIDA_SET.Designer.cs">
+    <Compile Include="Telas\Saidas\SAIDA_SET.Designer.cs">
       <DependentUpon>SAIDA_SET.cs</DependentUpon>
     </Compile>
-    <Compile Include="SIMULACAO.cs">
+    <Compile Include="Telas\Especiais\SIMULACAO.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SIMULACAO.Designer.cs">
+    <Compile Include="Telas\Especiais\SIMULACAO.Designer.cs">
       <DependentUpon>SIMULACAO.cs</DependentUpon>
     </Compile>
-    <Compile Include="Sobre_PROGCP96.cs">
+    <Compile Include="Telas\Especiais\Sobre_PROGCP96.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Sobre_PROGCP96.Designer.cs">
+    <Compile Include="Telas\Especiais\Sobre_PROGCP96.Designer.cs">
       <DependentUpon>Sobre_PROGCP96.cs</DependentUpon>
     </Compile>
-    <Compile Include="Temporizador.cs">
+    <Compile Include="Telas\Especiais\Temporizador.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Temporizador.Designer.cs">
+    <Compile Include="Telas\Especiais\Temporizador.Designer.cs">
       <DependentUpon>Temporizador.cs</DependentUpon>
     </Compile>
-    <Compile Include="USBDeviceInfo.cs" />
-    <Compile Include="VisorCLP.cs">
+    <Compile Include="Telas\Arquivo\USBDeviceInfo.cs" />
+    <Compile Include="Telas\Especiais\VisorCLP.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="VisorCLP.Designer.cs">
+    <Compile Include="Telas\Especiais\VisorCLP.Designer.cs">
       <DependentUpon>VisorCLP.cs</DependentUpon>
     </Compile>
-    <Compile Include="VisorCLP_CONTADOR.cs">
+    <Compile Include="Telas\Especiais\VisorCLP_CONTADOR.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="VisorCLP_CONTADOR.Designer.cs">
+    <Compile Include="Telas\Especiais\VisorCLP_CONTADOR.Designer.cs">
       <DependentUpon>VisorCLP_CONTADOR.cs</DependentUpon>
     </Compile>
-    <Compile Include="visorCLP_ESPERA.cs">
+    <Compile Include="Telas\Especiais\visorCLP_ESPERA.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="visorCLP_ESPERA.Designer.cs">
+    <Compile Include="Telas\Especiais\visorCLP_ESPERA.Designer.cs">
       <DependentUpon>visorCLP_ESPERA.cs</DependentUpon>
     </Compile>
-    <Compile Include="Visor_Bimanual.cs">
+    <Compile Include="Telas\Especiais\Visor_Bimanual.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Visor_Bimanual.Designer.cs">
+    <Compile Include="Telas\Especiais\Visor_Bimanual.Designer.cs">
       <DependentUpon>Visor_Bimanual.cs</DependentUpon>
     </Compile>
-    <Compile Include="Visor_HabilitarFuncao.cs">
+    <Compile Include="Telas\Especiais\Visor_HabilitarFuncao.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Visor_HabilitarFuncao.Designer.cs">
+    <Compile Include="Telas\Especiais\Visor_HabilitarFuncao.Designer.cs">
       <DependentUpon>Visor_HabilitarFuncao.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Ajuda.resx">
+    <EmbeddedResource Include="Telas\Logicas\And.resx">
+      <DependentUpon>And.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Logicas\DELETE.resx">
+      <DependentUpon>DELETE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Especiais\Ajuda.resx">
       <DependentUpon>Ajuda.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="AUXILIAR_ANALOGICA.resx">
+    <EmbeddedResource Include="Telas\Especiais\AUXILIAR_ANALOGICA.resx">
       <DependentUpon>AUXILIAR_ANALOGICA.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Bimanual.resx">
+    <EmbeddedResource Include="Telas\Especiais\Bimanual.resx">
       <DependentUpon>Bimanual.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="BORDA_DESCIDA.resx">
+    <EmbeddedResource Include="Telas\Entradas\BORDA_DESCIDA.resx">
       <DependentUpon>BORDA_DESCIDA.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="BORDA_SUBIDA.resx">
+    <EmbeddedResource Include="Telas\Entradas\BORDA_SUBIDA.resx">
       <DependentUpon>BORDA_SUBIDA.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="CONTADOR.resx">
+    <EmbeddedResource Include="Telas\Especiais\CONTADOR.resx">
       <DependentUpon>CONTADOR.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="CONTATO_AUXILIAR.resx">
+    <EmbeddedResource Include="Telas\Especiais\CONTATO_AUXILIAR.resx">
       <DependentUpon>CONTATO_AUXILIAR.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="DISPLAY.resx">
+    <EmbeddedResource Include="Telas\Especiais\DISPLAY.resx">
       <DependentUpon>DISPLAY.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Dispositivos.resx">
+    <EmbeddedResource Include="Telas\Especiais\Dispositivos.resx">
       <DependentUpon>Dispositivos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ENTRADA_NA.resx">
+    <EmbeddedResource Include="Telas\Entradas\ENTRADA_NA.resx">
       <DependentUpon>ENTRADA_NA.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ENTRADA_NF.resx">
+    <EmbeddedResource Include="Telas\Entradas\ENTRADA_NF.resx">
       <DependentUpon>ENTRADA_NF.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ESPERA.resx">
+    <EmbeddedResource Include="Telas\Especiais\ESPERA.resx">
       <DependentUpon>ESPERA.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Habilitar_Funcoes.resx">
+    <EmbeddedResource Include="Telas\Especiais\Habilitar_Funcoes.resx">
       <DependentUpon>Habilitar_Funcoes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MENSAGEM_DISPLAY.resx">
+    <EmbeddedResource Include="Telas\Especiais\MENSAGEM_DISPLAY.resx">
       <DependentUpon>MENSAGEM_DISPLAY.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MENSAGEM_DISPLAY2.resx">
+    <EmbeddedResource Include="Telas\Especiais\MENSAGEM_DISPLAY2.resx">
       <DependentUpon>MENSAGEM_DISPLAY2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -295,40 +313,40 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="SAIDA_NA.resx">
+    <EmbeddedResource Include="Telas\Saidas\SAIDA_NA.resx">
       <DependentUpon>SAIDA_NA.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="SAIDA_NF.resx">
+    <EmbeddedResource Include="Telas\Saidas\SAIDA_NF.resx">
       <DependentUpon>SAIDA_NF.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="SAIDA_RESET.resx">
+    <EmbeddedResource Include="Telas\Saidas\SAIDA_RESET.resx">
       <DependentUpon>SAIDA_RESET.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="SAIDA_SET.resx">
+    <EmbeddedResource Include="Telas\Saidas\SAIDA_SET.resx">
       <DependentUpon>SAIDA_SET.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="SIMULACAO.resx">
+    <EmbeddedResource Include="Telas\Especiais\SIMULACAO.resx">
       <DependentUpon>SIMULACAO.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Sobre_PROGCP96.resx">
+    <EmbeddedResource Include="Telas\Especiais\Sobre_PROGCP96.resx">
       <DependentUpon>Sobre_PROGCP96.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Temporizador.resx">
+    <EmbeddedResource Include="Telas\Especiais\Temporizador.resx">
       <DependentUpon>Temporizador.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VisorCLP.resx">
+    <EmbeddedResource Include="Telas\Especiais\VisorCLP.resx">
       <DependentUpon>VisorCLP.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VisorCLP_CONTADOR.resx">
+    <EmbeddedResource Include="Telas\Especiais\VisorCLP_CONTADOR.resx">
       <DependentUpon>VisorCLP_CONTADOR.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="visorCLP_ESPERA.resx">
+    <EmbeddedResource Include="Telas\Especiais\visorCLP_ESPERA.resx">
       <DependentUpon>visorCLP_ESPERA.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Visor_Bimanual.resx">
+    <EmbeddedResource Include="Telas\Especiais\Visor_Bimanual.resx">
       <DependentUpon>Visor_Bimanual.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Visor_HabilitarFuncao.resx">
+    <EmbeddedResource Include="Telas\Especiais\Visor_HabilitarFuncao.resx">
       <DependentUpon>Visor_HabilitarFuncao.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
@@ -1238,6 +1256,9 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Domain\Componentes\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

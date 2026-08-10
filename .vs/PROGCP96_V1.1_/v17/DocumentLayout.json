@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rodri\\Desktop\\Rodrigo (2)\\Prog_CP96\\PROGCP96_V1.10\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\rodri\\Desktop\\Projetos\\Prog_CP96 - REFATORACAO\\PROGCP96_V2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C005C459-5404-46FC-977B-340C4FF5EABE}|PROGCP96_V1.1_.csproj|c:\\users\\rodri\\desktop\\projetos\\prog_cp96 - refatoracao\\progcp96_v2.0\\telas\\logicas\\and.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C005C459-5404-46FC-977B-340C4FF5EABE}|PROGCP96_V1.1_.csproj|solutionrelative:telas\\logicas\\and.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "And.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\Projetos\\Prog_CP96 - REFATORACAO\\PROGCP96_V2.0\\Telas\\Logicas\\And.cs",
+              "RelativeDocumentMoniker": "Telas\\Logicas\\And.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\Projetos\\Prog_CP96 - REFATORACAO\\PROGCP96_V2.0\\Telas\\Logicas\\And.cs",
+              "RelativeToolTip": "Telas\\Logicas\\And.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:49:15.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
