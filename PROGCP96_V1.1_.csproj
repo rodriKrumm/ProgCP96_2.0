@@ -66,6 +66,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Domain\Componentes\Componente.cs" />
+    <Compile Include="Domain\Posicao.cs" />
     <Compile Include="Telas\Logicas\And.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -1257,8 +1259,6 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Domain\Componentes\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
