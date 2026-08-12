@@ -11,9 +11,9 @@ namespace PROGCP96_V1._1_
         int CA_NA03 = 104; // Contato Auxiliar NA
         int CA_NA04 = 106; // Contato Auxiliar NA
         int CA_NA05 = 108; // Contato Auxiliar NA
-        int CA_NA06 = 109; // Contato Auxiliar NA
+        int CA_NA06 = 109; // Contato Auxiliar NF///
         int CA_NA07 = 110; // Contato Auxiliar NA
-        int CA_NA08 = 111; // Contato Auxiliar NA
+        int CA_NA08 = 111; // Contato Auxiliar NF///
         int CA_NF09 = 101; // Contato Auxiliar NF
         int CA_NF10 = 103; // Contato Auxiliar NF
         int CA_NF11 = 105; // Contato Auxiliar NF

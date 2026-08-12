@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Domain\Componentes\Componente.cs" />
+    <Compile Include="Domain\Enums\TipoComponente.cs" />
     <Compile Include="Domain\Posicao.cs" />
     <Compile Include="Telas\Logicas\And.cs">
       <SubType>Form</SubType>
